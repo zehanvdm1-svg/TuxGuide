@@ -1,0 +1,510 @@
+html {
+	background-color: DarkGray;
+}
+
+.background1 {
+	background-color: Gray;
+}
+
+.indigo {
+	background-color: teal;
+}
+
+.commands {
+	color: white;
+	font-family: Arial; sans-serif;
+}
+
+.design {
+	color: white;
+	text-align: center;
+	font-family: Arial; sans-serif;
+}
+
+.design1 {
+	color: white;
+	text-align: center;
+	font-family: Arial; sans-serif;
+}
+
+.design2 {
+	color: white;
+	text-align: center;
+	font-family: Arial; sans-serif;
+}
+
+.design3 {
+	color: white;
+	text-align: center;
+	font-family: Arial; sans-serif;
+}
+
+.card1 {
+	background-color: Darkblue;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 39%; top: 20%;
+	text-decoration: none;
+	color: white;
+	border-radius: 5px;
+}
+
+.card1:hover {
+	transform: translateY(-8px);
+}
+
+.card2 {
+	background-color: Darkblue;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 60%; top: 20%;
+	text-decoration: none;
+	color: white;
+	border-radius: 5px;
+}
+
+.card2:hover {
+	transform: translateY(-8px);
+}
+
+.card3 {
+	background-color: Darkblue;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 18%; top: 20%;
+	text-decoration: none;
+	color: white;
+	border-radius: 5px;
+}
+
+.card3:hover {
+	transform: translateY(-8px);
+}
+
+.card4 {
+	background-color: Darkblue;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 39%; top: 30%;
+	text-decoration: none;
+	color: white;
+	border-radius: 5px;
+}
+
+.card4:hover {
+	transform: translateY(-8px);
+}
+
+.C1 {
+	background-color: black;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 39%; top: 20%;
+}
+
+.C1:hover {
+	transform: translateY(-8px);
+}
+
+.C2 {
+	background-color: black;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 60%; top: 20%;
+}
+
+.C2:hover {
+	transform: translateY(-8px);
+}
+
+.C3 {
+	background-color: black;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 18%; top: 20%;
+}
+
+.C3:hover {
+	transform: translateY(-8px);
+}
+
+.C4 {
+	background-color: black;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 39%; top: 39%;
+}
+
+.C4:hover {
+	transform: translateY(-8px);
+}
+
+.C5 {
+	background-color: black;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 18%; top: 42%;
+}
+
+.C5:hover {
+	transform: translateY(-8px);
+}
+
+.C6 {
+	background-color: black;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 60%; top: 43%;
+}
+
+.C6:hover {
+	transform: translateY(-8px);
+}
+
+.C7 {
+	background-color: black;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+	position: absolute; left: 39%; top: 58%;
+}
+
+.C7:hover {
+	transform: translateY(-8px);
+}
+
+.A1 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A1:hover {
+	transform: translateY(-8px);
+}
+
+.A2 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A2:hover {
+	transform: translateY(-8px);
+}
+
+.A3 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A3:hover {
+	transform: translateY(-8px);
+}
+
+.A4 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A4:hover {
+	transform: translateY(-8px);
+}
+
+.A5 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A5:hover {
+	transform: translateY(-8px);
+}
+
+.A6 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A6:hover {
+	transform: translateY(-8px);
+}
+
+.A7 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A7:hover {
+	transform: translateY(-8px);
+}
+
+.A8 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A8:hover {
+	transform: translateY(-8px);
+}
+
+.A9 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A9:hover {
+	transform: translateY(-8px);
+}
+
+.A10 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A10:hover {
+	transform: translateY(-8px);
+}
+
+.A11 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A11:hover {
+	transform: translateY(-8px);
+}
+
+.A12 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A12:hover {
+	transform: translateY(-8px);
+}
+
+.A13 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A13:hover {
+	transform: translateY(-8px);
+}
+
+.A14 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A14:hover {
+	transform: translateY(-8px);
+}
+
+.A15 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A15:hover {
+	transform: translateY(-8px);
+}
+
+.A16 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A16:hover {
+	transform: translateY(-8px);
+}
+
+.A17 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A17:hover {
+	transform: translateY(-8px);
+}
+
+.A18 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A18:hover {
+	transform: translateY(-8px);
+}
+
+.A19 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A19:hover {
+	transform: translateY(-8px);
+}
+
+.A20 {
+	background-color: DarkGreen;
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	width: 100%;
+	max-width: 300px;
+}
+
+.A20:hover {
+	transform: translateY(-8px);
+}
+
+.B2 {
+	font-family: Arial; sans-serif;
+	padding: 20px;
+	margin: 10px;
+}
+
+
+.Back1 {
+	background-color: grey;
+	text-decoration: none;
+	color: white;
+}
