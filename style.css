@@ -12,36 +12,36 @@ html {
 
 .commands {
 	color: white;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 }
 
 .design {
 	color: white;
 	text-align: center;
-	font-family: Arial; sans-serif;
+	font-family: Arial; 
 }
 
 .design1 {
 	color: white;
 	text-align: center;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 }
 
 .design2 {
 	color: white;
 	text-align: center;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 }
 
 .design3 {
 	color: white;
 	text-align: center;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 }
 
 .card1 {
 	background-color: Darkblue;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -59,7 +59,7 @@ html {
 
 .card2 {
 	background-color: Darkblue;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -77,7 +77,7 @@ html {
 
 .card3 {
 	background-color: Darkblue;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -95,7 +95,7 @@ html {
 
 .card4 {
 	background-color: Darkblue;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -113,7 +113,7 @@ html {
 
 .C1 {
 	background-color: black;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -128,7 +128,7 @@ html {
 
 .C2 {
 	background-color: black;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -143,7 +143,7 @@ html {
 
 .C3 {
 	background-color: black;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -158,7 +158,7 @@ html {
 
 .C4 {
 	background-color: black;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -173,7 +173,7 @@ html {
 
 .C5 {
 	background-color: black;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -188,7 +188,7 @@ html {
 
 .C6 {
 	background-color: black;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -203,7 +203,7 @@ html {
 
 .C7 {
 	background-color: black;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -218,7 +218,7 @@ html {
 
 .A1 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -232,7 +232,7 @@ html {
 
 .A2 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -246,7 +246,7 @@ html {
 
 .A3 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -260,7 +260,7 @@ html {
 
 .A4 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -274,7 +274,7 @@ html {
 
 .A5 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -288,7 +288,7 @@ html {
 
 .A6 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -302,7 +302,7 @@ html {
 
 .A7 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -316,7 +316,7 @@ html {
 
 .A8 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -330,7 +330,7 @@ html {
 
 .A9 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -344,7 +344,7 @@ html {
 
 .A10 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -358,7 +358,7 @@ html {
 
 .A11 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -372,7 +372,7 @@ html {
 
 .A12 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -386,7 +386,7 @@ html {
 
 .A13 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -400,7 +400,7 @@ html {
 
 .A14 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -414,7 +414,7 @@ html {
 
 .A15 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -428,7 +428,7 @@ html {
 
 .A16 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -442,7 +442,7 @@ html {
 
 .A17 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -456,7 +456,7 @@ html {
 
 .A18 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -470,7 +470,7 @@ html {
 
 .A19 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -484,7 +484,7 @@ html {
 
 .A20 {
 	background-color: DarkGreen;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -497,7 +497,7 @@ html {
 }
 
 .B2 {
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	padding: 20px;
 	margin: 10px;
 }
@@ -506,5 +506,9 @@ html {
 .Back1 {
 	background-color: grey;
 	text-decoration: none;
+	color: white;
+}
+
+.End1 {
 	color: white;
 }
